@@ -1,0 +1,21 @@
+{
+  "name": "go_links",
+  "version": "1.0.0",
+  "description": "Go Link Redirector",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://jwanko@bitbucket.org/jwanko/go_links.git"
+  },
+  "author": "Joe Wanko",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/jwanko/go_links#readme",
+  "dependencies": {
+    "gulp": "^4.0.0",
+    "gulp-hub": "git+https://git@github.com/frankwallis/gulp-hub#d461b9c700df9010d0a8694e4af1fb96d9f38bf4",
+    "gulp-util": "^3.0.8"
+  }
+}
